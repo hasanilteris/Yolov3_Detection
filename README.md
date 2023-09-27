@@ -1,4 +1,2 @@
-# Yolov3-Detection
-Yolov3 kullanarak tespit edilen nesne ile bounding box'ın aynı anda entegresi
-
-Weights dosyası dahil edilip test edilebilir.
+## Yolo Version 3 Object Detection
+#### A real-time object detection application using YOLOv3 and a custom dataset. Detected objects are integrated with bounding boxes displayed on the screen.
